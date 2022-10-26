@@ -6,14 +6,14 @@ Application read these commands of the following form:
 - REPORT
 
 command to run the program is:
-ruby runner.rb
-below is the testing data
+- ruby runner.rb
+- below is the testing data
 Testing data: 
-PLACE 3,3,NORTH,BLACK
-MOVE 2
-LEFT
-MOVE 1
-REPORT
+- PLACE 3,3,NORTH,BLACK
+- MOVE 2
+- LEFT
+- MOVE 1
+- REPORT
 OUTPUT: 2,5,WEST,BLACK
 
 TEST DATA:
